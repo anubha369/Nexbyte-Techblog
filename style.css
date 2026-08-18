@@ -1,0 +1,17 @@
+/*header ke liye code*/
+
+header {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;/*aligning the items in the center of the header , means apni vertical line par same deikhneeh koi upr ya neeche nhi hoga */
+    padding: 20px;
+}        
+nav{
+    display:flex;
+    gap:20px;
+}
+.nav-actions {
+    display: flex;
+    align-items:center;
+    gap: 10px;
+}
