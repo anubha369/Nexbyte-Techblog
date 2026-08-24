@@ -176,15 +176,13 @@ nav :hover {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 25px;
-    shadow: 0 200px 800px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 20px 80px rgba(0, 0, 0, 0.06);
 }
 .article-card {
     background-color: #fff;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
- 
 .article-image {
     height: 150px;
     background-color: #2d2d3d;
